@@ -15,4 +15,7 @@ Mixing TS and JS React components does not work as (I) expected. See
 
 ### Redux
 
-Redux requires a lot of boilerplate or wizard-level types.
+Redux requires a lot of boilerplate (switch statement + types) to make it type
+safe.
+
+(Useful tricks: https://github.com/piotrwitek/react-redux-typescript-patterns)

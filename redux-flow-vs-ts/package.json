@@ -1,0 +1,14 @@
+{
+  "name": "redux-flow-vs-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow-bin"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.41.0"
+  }
+}

@@ -1,0 +1,2 @@
+:name "flow-vs-ts"
+:flow "node_modules/.bin/flow"
